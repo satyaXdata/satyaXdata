@@ -1,5 +1,6 @@
 ## Hi there 👋
-# 💫 SATYANARAYANA YELUPULA:
+# 💫 SATYANARAYANA YELUPULA
+
 🔭 I’m currently working on PYTHON<br>
 
 ## 🌐 Socials:
